@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/doccstat/doccstat.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "fastcpd"]
 	path = fastcpd
 	url = https://github.com/doccstat/fastcpd
-	shallow = true
-	registered = true
