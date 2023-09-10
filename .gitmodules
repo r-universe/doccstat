@@ -5,3 +5,7 @@
 [submodule "fastcpd"]
 	path = fastcpd
 	url = https://github.com/doccstat/fastcpd
+[submodule "fastglm"]
+	path = fastglm
+	url = https://github.com/jaredhuling/fastglm
+	registered = false

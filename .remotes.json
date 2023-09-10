@@ -1,0 +1,8 @@
+[
+  {
+    "package": "fastglm",
+    "url": "https://github.com/jaredhuling/fastglm",
+    "via": ["fastcpd"],
+    "from": "fastcpd"
+  }
+]
