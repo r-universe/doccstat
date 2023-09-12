@@ -1,7 +1,7 @@
 [
   {
-    "package": "fastglm",
-    "url": "https://github.com/jaredhuling/fastglm",
+    "package": "bigmemory",
+    "url": "https://github.com/kaneplusplus/bigmemory",
     "via": ["fastcpd"],
     "from": "fastcpd"
   }
