@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/doccstat/doccstat.r-universe.dev
 	branch = HEAD
-[submodule "bigmemory"]
-	path = bigmemory
-	url = https://github.com/kaneplusplus/bigmemory
-	registered = false
 [submodule "fastcpd"]
 	path = fastcpd
 	url = https://github.com/doccstat/fastcpd
