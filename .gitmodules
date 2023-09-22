@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/doccstat/doccstat.r-universe.dev
 	branch = HEAD
+[submodule "abseil"]
+	path = abseil
+	url = https://github.com/doccstat/abseil-r
 [submodule "fastcpd"]
 	path = fastcpd
 	url = https://github.com/doccstat/fastcpd
